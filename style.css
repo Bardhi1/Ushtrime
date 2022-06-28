@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@200;300&display=swap');
+
+p[class="first"]{
+    color:rgb(132, 194, 142);
+    text-align: left;
+    font-family: 'Anek Latin', sans-serif;
+    text-indent: 160px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+p>em {
+    color:red;
+}
+p[class="linqet"]{
+    background-color: greenyellow;
+    text-align:left;
+    width: 1180px;
+    height: 23px;
+    margin: 2px 160px;
+    padding: 5px;
+}
+h2,h2+p {
+    text-indent: 160px;
+    
+}
+.social{
+    float: right;
+    margin-top: -80px;
+    margin-right: -100px;
+    
+}
+nav {
+    float:inline-start;  
+    text-indent: 160px;   
+    
+}
+.aside{
+    margin-left: 160px;
+}
+.section{
+    margin-left: 345px;
+    text-align: justify;
+    margin-top: -310px;
+    margin-right: 170px;
+}
+.footer{
+    background-color:greenyellow ;
+    width: 1180px;
+    margin-left: 160px;
+    height: 125px;
+    padding-top: -20px;
+}
+.Recepta{
+ display: inline-block;
+ padding-left: 15px;
+ 
+}
+.java{
+    display: inline-block;
+  text-align: center;
+   padding-left: 200px;
+}
+.email{
+    display: inline-block;
+   padding-left: 200px;
+
+}
